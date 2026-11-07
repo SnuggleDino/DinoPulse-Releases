@@ -1,0 +1,14 @@
+DinoPulse
+Copyright (c) 2026 SnuggleDino. All rights reserved.
+
+You may download, install and use DinoPulse free of charge. You may pass on the
+unchanged installer, free of charge. You may not sell it. The source code is not
+published.
+
+DinoPulse is provided as is, without warranty of any kind. To the extent permitted
+by law, the author is not liable for any damage arising from its use.
+
+DinoPulse carries GStreamer, its plugins, the FFmpeg libraries inside libgstlibav
+and other libraries under their own licences, among them the GNU Lesser General
+Public License. Their licence texts are in the licenses folder of the
+installation. Nothing here limits the rights those licences give you.
